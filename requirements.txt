@@ -4,7 +4,7 @@ decorator==4.4.2
 Django==2.1.4
 django-environ==0.4.5
 django-filter==2.0.0
-django-graphql-jwt==0.1.5
+django-graphql-jwt==0.2.1
 graphene==2.1.8
 graphene-django==2.2.0
 graphql-core==2.3.2
